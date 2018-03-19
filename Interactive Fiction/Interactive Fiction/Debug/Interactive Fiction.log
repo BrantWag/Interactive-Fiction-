@@ -1,0 +1,3 @@
+﻿  Interactive Fiction.cpp
+c:\users\brant\source\repos\interactive fiction\interactive fiction\interactive fiction.cpp(30): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Interactive Fiction.vcxproj -> C:\Users\brant\source\repos\Interactive Fiction\Debug\Interactive Fiction.exe
